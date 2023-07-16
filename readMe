@@ -1,0 +1,3 @@
+This framework is executing selenium locator for some random web page
+It require chromedriver compatible to your browser version
+pom.xml required selenium-java dependency and junit dependency
